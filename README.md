@@ -1,17 +1,10 @@
-# Service.OCR
+# Service.Seq
 
 ### 1 - Parameters
 
 ```
 json
 {
-  "PathTessData": "C:\\TessData\\",
-  "PathFileTemp": "C:\\Files\\"
+  "SEQ_URI": ""
 }
-```
-
-### 2 - Get download tess data
-
-```
-https://github.com/tesseract-ocr/tessdata
 ```
